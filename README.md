@@ -17,10 +17,6 @@ Create NFT Marketplace With Below Options.
 4- Viewing NFTs for Sale
 5- Viewing Owned NFTs
 
-## Polygonscan link
-(https://mumbai.polygonscan.com/address/0x500Da51E395151E4f2AC21Fb56DA2Fa6030A3334)
-
-
 ### Run this project
 #### How to setup locally?
 
